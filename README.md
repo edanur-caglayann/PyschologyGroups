@@ -118,4 +118,4 @@ Tüm önerileri getirir.
 4. **Önerilere Oy Verin**: Kayıtlı kullanıcılar `oyVer` fonksiyonunu kullanarak önerilere oy verir.
 5. **Önerileri Uygulayın**: Oy eşiğine ulaşan öneriler kontrat tarafından otomatik olarak uygulanır.
 
-Bu kontrat, psikolojik danışmanlık alanındaki girişimler için işbirlikçi karar verme sürecini kolaylaştırmayı amaçlamaktadır.
+Bu kontrat, psikolojik danışmanlık alanındaki girişimler için işbirlikçi karar verme sürecini kolaylaştırmayı amaçlamaktadır. Danışanlar ve terapistler, öneriler sunabilir ve topluluk oylamalarıyla kararlar alabilir. Tüm veriler, gizlilik ve güvenlik sağlamak için blockchain üzerinde saklanır. Bu sayede, topluluk üyeleri terapist seçimi ve eğitim programları gibi konularda etkin rol oynar.
